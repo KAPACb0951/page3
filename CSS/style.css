@@ -15,11 +15,11 @@ body{
 
 }
 header a{
-    border: 0px solid;
+    border: 7px solid #FFFFFF;
     border-radius: 30px;
     text-decoration: none;
     background-color: #FFFFFF;
-    padding: 3px;
+    padding: 0px;
     font-size: 27px;
     margin-right: 45px;
     margin-bottom: 20px;
